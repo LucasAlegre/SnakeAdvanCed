@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1466794786 source:c:\users\henrique & guilherme\desktop\snakeadvancedyeah\snakeadvanced\main.c
+	"types.h"
+	"defines.h"
+
+1466794721 c:\users\henrique & guilherme\desktop\snakeadvancedyeah\snakeadvanced\types.h
+	"defines.h"
+
+1466794947 c:\users\henrique & guilherme\desktop\snakeadvancedyeah\snakeadvanced\defines.h
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1466794890 source:c:\users\henrique & guilherme\desktop\snakeadvancedyeah\snakeadvanced\utilities.c
+	"utilities.h"
+	"defines.h"
+
+1466794947 c:\users\henrique & guilherme\desktop\snakeadvancedyeah\snakeadvanced\utilities.h
+
+1466804716 source:c:\users\henrique & guilherme\desktop\snakeadvanced\main.c
+	"defines.h"
+
+1466794721 c:\users\henrique & guilherme\desktop\snakeadvanced\types.h
+	"defines.h"
+
+1466803896 c:\users\henrique & guilherme\desktop\snakeadvanced\defines.h
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1466796810 source:c:\users\henrique & guilherme\desktop\snakeadvanced\utilities.c
+	"utilities.h"
+	"defines.h"
+	"types.h"
+
+1466795098 c:\users\henrique & guilherme\desktop\snakeadvanced\utilities.h
+
+1466805770 source:c:\users\henrique & guilherme\desktop\snakeadvanced\files.c
+	"types.h"
+	"defines.h"
+	"files.h"
+
+1466796262 c:\users\henrique & guilherme\desktop\snakeadvanced\files.h
+
+1466804716 source:c:\users\henrique & guilherme\desktop\snakeadvanced\menu.c
+	"defines.h"
+	"types.h"
+	"menu.h"
+
+1466795897 c:\users\henrique & guilherme\desktop\snakeadvanced\menu.h
+
+1466804716 source:c:\users\henrique & guilherme\desktop\snakeadvanced\animation.c
+	"types.h"
+	"defines.h"
+	"animation.h"
+
+1466804556 c:\users\henrique & guilherme\desktop\snakeadvanced\animation.h
+	"types.h"
+	"defines.h"
+
+1466797117 c:\users\henrique & guilherme\desktop\snakeadvanced\snake.h
+
+1466804778 source:c:\users\henrique & guilherme\desktop\snakeadvanced\snake.c
+	"types.h"
+	"defines.h"
+	"snake.h"
+
+1466975863 source:c:\users\usuario\desktop\snakeadvanced\animation.c
+	"types.h"
+	"defines.h"
+	"animation.h"
+	"utilities.h"
+
+1466979473 c:\users\usuario\desktop\snakeadvanced\types.h
+	"defines.h"
+
+1466891302 c:\users\usuario\desktop\snakeadvanced\defines.h
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
+1466975863 c:\users\usuario\desktop\snakeadvanced\animation.h
+	"types.h"
+
+1467165092 source:c:\users\usuario\desktop\snakeadvanced\files.c
+	"types.h"
+	"defines.h"
+	"files.h"
+	"utilities.h"
+
+1466832044 c:\users\usuario\desktop\snakeadvanced\files.h
+
+1466981341 source:c:\users\usuario\desktop\snakeadvanced\main.c
+	"defines.h"
+	"types.h"
+	"snake.h"
+	"files.h"
+	"animation.h"
+	"utilities.h"
+	"menu.h"
+
+1466981322 source:c:\users\usuario\desktop\snakeadvanced\menu.c
+	"defines.h"
+	"types.h"
+	"menu.h"
+	"utilities.h"
+	"animation.h"
+
+1466976416 c:\users\usuario\desktop\snakeadvanced\menu.h
+
+1467165892 source:c:\users\usuario\desktop\snakeadvanced\snake.c
+	"snake.h"
+	"animation.h"
+	"utilities.h"
+	"files.h"
+	<stdio.h>
+	<ctype.h>
+
+1466979422 c:\users\usuario\desktop\snakeadvanced\snake.h
+	"types.h"
+	"defines.h"
+
+1466979557 source:c:\users\usuario\desktop\snakeadvanced\utilities.c
+	"utilities.h"
+	<stdio.h>
+	<ctype.h>
+
+1466979557 c:\users\usuario\desktop\snakeadvanced\utilities.h
+	"defines.h"
+	"types.h"
+
